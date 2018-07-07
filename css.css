@@ -1,3 +1,6 @@
+body{
+margin:0;
+}
 #bare-haut{
     background: url(images/header.jpg);
     width:1306px;
