@@ -1,0 +1,83 @@
+#bare-haut{
+    background: url(images/header.jpg);
+    width:1306px;
+    height: 52px;
+}
+#bare-arriere{
+    background: url(images/image6.jpg);
+    width:946px;
+    height: 447px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo{
+     display: block;
+    background-image: url(images/logo.jpg);
+   width: 161px;
+   height: 177px;
+    margin-top: -445px;
+    margin-left: 203px;      
+    }
+#menu{
+    background: url(images/menu.jpg);
+    width:70%;
+    height: 65px;
+    margin-top: 202px;
+    margin-left:195px;
+    padding-left: 11px;}
+
+#menu ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+#menu ul li {
+    float: left;
+    line-height: 65px;
+    width: 20%;
+    text-align: center;
+}
+#menu ul li a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+}
+#menu ul li a:hover{
+    background: black;
+}
+
+#container{
+    width: 944px;
+    height: 450px;
+    margin: 20px auto;
+    
+}
+#text1{
+    width: 40%;
+    height: 50%;
+    float: left;
+}
+.image{
+    height: 50%;
+    width: 25%;
+    float: left;  
+}
+#text1 h2{
+    color: brown;
+}
+#text1 p{
+    text-align: justify;
+}
+#bare-bas{
+    background-image: url(images/image9.jpg);
+    width:1306px ;
+    height:213px ;
+}
+#footer p{
+    text-align: center;
+    font-weight: bold;
+}
